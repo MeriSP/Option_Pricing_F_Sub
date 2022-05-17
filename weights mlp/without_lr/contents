@@ -1,0 +1,2 @@
+These weights were trained with Adam optimizer, without specifiying their learning rates. 
+These are the best models for the hyperparameters epoch 20 and batch 16 on the trainings performed on the 17th May 2022.
