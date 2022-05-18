@@ -1,0 +1,1 @@
+These are the best weights obtained during the training of the CNN model, with Nadam optimizer, for learning rates 1e-3, 1e-4, 1e-5 and 1e-6.
